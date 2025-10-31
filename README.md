@@ -1,30 +1,45 @@
-# Business analyst portfolio
-
-*Automatically synced with your [v0.app](https://v0.app) deployments*
-
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/sabinsthapits-projects/v0-business-analyst-portfolio)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.app-black?style=for-the-badge)](https://v0.app/chat/projects/TdbrHpiEuTi)
+# Business Analyst Portfolio - AI-Assisted Design Project
 
 ## Overview
+This repository contains the comprehensive design documentation for my Business Analyst Portfolio website, created using AI-assisted tools to demonstrate modern development workflows. The project showcases how AI can bridge the gap between business requirements and technical implementation.
 
-This repository will stay in sync with your deployed chats on [v0.app](https://v0.app).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.app](https://v0.app).
+## Purpose
+The design document in this repository demonstrates an AI-assisted workflow using Visual Studio Code Insider with GitHub Copilot. It illustrates:
+- AI-powered generation of technical specifications
+- Iterative refinement based on simulated engineering feedback
+- Collaborative design process between business and technical roles
 
-## Deployment
+## Navigation Guide
 
-Your project is live at:
+### Accessing the Design Document
+1. **Navigate to the `doc/` folder** in this repository
+2. **Open `design_document.md`** to view the comprehensive design specification
+3. The document is in Markdown format and renders beautifully on GitHub
 
-**[https://vercel.com/sabinsthapits-projects/v0-business-analyst-portfolio](https://vercel.com/sabinsthapits-projects/v0-business-analyst-portfolio)**
+### Understanding the AI-Assisted Process
+The design document includes special markers showing:
+- **AI-Generated Content**: Sections initially created by GitHub Copilot
+- **Engineering Questions**: Technical uncertainties identified with AI assistance
+- **Simulated Feedback**: Realistic engineering team responses
+- **Iterative Refinement**: How the design evolved through multiple versions
 
-## Build your app
+### Supporting Files
+- All design documentation is contained in the `doc/` folder
+- The main application code is in the root directory
+- Configuration files support the development environment
 
-Continue building your app on:
+## Project Context
+This design supports a Business Analyst Portfolio website built with:
+- **Frontend**: Next.js with React
+- **Styling**: Tailwind CSS
+- **Hosting**: Vercel platform
+- **Features**: Adaptive personalization, contact forms, project showcase
 
-**[https://v0.app/chat/projects/TdbrHpiEuTi](https://v0.app/chat/projects/TdbrHpiEuTi)**
+## AI Tools Used
+- **Visual Studio Code Insider** with GitHub Copilot extension
+- **Claude 3.5 Sonnet** for additional AI assistance
+- **Simulated Engineering Feedback** for iterative refinement
 
-## How It Works
+---
 
-1. Create and modify your project using [v0.app](https://v0.app)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+*This project demonstrates the transformative impact of AI on traditional software development processes.*
