@@ -43,3 +43,17 @@ This design supports a Business Analyst Portfolio website built with:
 ---
 
 *This project demonstrates the transformative impact of AI on traditional software development processes.*
+
+## 🚀 Live Deployment
+
+This project is now deployed and live on the internet!
+
+**Live Website:** [https://v0-business-analyst-portfolio.vercel.app](https://v0-business-analyst-portfolio.vercel.app)
+
+### AI-Assisted Development
+- **Contact Form**: Created with AI assistance
+- **Cloud Deployment**: Automated deployment via Vercel
+- **Continuous Updates**: Every time I update code, the live site updates automatically
+
+### How to View the AI Feature
+Visit: `https://v0-business-analyst-portfolio.vercel.app/contact` to see the AI-generated contact form!
